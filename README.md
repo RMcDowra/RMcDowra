@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Working on BS in IT with a concentration in Cybersecurity at The University of North Alabama 
+
+I'm all about getting our students fully equipped to start their careers, building full-stack, data-driven, RESTful API, MVC, SPAs & the Agile SysDev Approach.  * 🌍  I'm based in Florence, AL * 🖥️  See my portfolio at [🚀 Barry's LaunchPage](http://barrycumbie.com)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,eclipse,github,python,jquery,linkedin,)](https://skillicons.dev)
 <!--
 **RMcDowra/RMcDowra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
