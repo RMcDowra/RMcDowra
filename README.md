@@ -1,12 +1,13 @@
 ### Hi there! My name is Reed McDowra 👋
 
-I am working on a BS in IT with a concentration in Cybersecurity at The University of North Alabama 
+-----------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+IT+Specalist;Lover+of+learning+new+technology;Unix+Enjoyer)](https://git.io/typing-svg)
 
-I love to constantly work and adapt my skillset to the ever changing landscape that is the tech sphere. 
+
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,eclipse,github,python,jquery,linkedin,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,bootstrap,eclipse,github,python,jquery,java, )](https://skillicons.dev)
 <!--
 **RMcDowra/RMcDowra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
