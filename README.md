@@ -3,22 +3,15 @@
 -----------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+IT+Specalist;Lover+of+learning+new+technology;Unix+Enjoyer)](https://git.io/typing-svg)
 
+---
+- 🗺️ I'm from Decatur, Alabama
+- 🧠 Currently working on my degree as well as Security + certification
 
+---
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,bootstrap,eclipse,github,python,jquery,java, )](https://skillicons.dev)
-<!--
-**RMcDowra/RMcDowra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,bootstrap,eclipse,github,python,jquery,java,powershell,vscode,mongo,mysql )
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/reed-mcdowra-1597072a0)
