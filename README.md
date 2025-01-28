@@ -4,8 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Future+IT+Specalist;Lover+of+learning+new+technology;Unix+Enjoyer)](https://git.io/typing-svg)
 
 ---
-- 🗺️ I'm from Decatur, Alabama
-- 🧠 Currently working on my degree as well as Security + certification
+🦇 🗺️ I'm from Decatur, Alabama
+
+🦇 🧠 Currently working on my degree as well as Security + certification
 
 ---
 
