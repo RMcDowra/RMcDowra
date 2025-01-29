@@ -15,4 +15,4 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,js,html,css,bootstrap,eclipse,github,python,jquery,java,powershell,vscode,mongo,mysql )
 
 ### Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/reed-mcdowra-1597072a0)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/reed-mcdowra-1597072a0/)
