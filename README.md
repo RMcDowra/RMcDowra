@@ -6,7 +6,7 @@
 ---
 🦇 🗺️ I'm from Decatur, Alabama
 
-🦇 🧠 Currently working on my degree as well as Security + certification
+🦇 🧠 Currently working on my BS in Information Technology as well as Security + certification
 
 ---
 
